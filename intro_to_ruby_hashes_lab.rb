@@ -1,6 +1,5 @@
 def new_hash
  hashey = {}
- hashey
 end
 
 def actor
